@@ -1,5 +1,5 @@
 # Everest-Tools
-A toolset for Windows written in Python! 
+# This project has migrated to https://github.com/EverestWorks/Everest-Tools! please go there, updates and information will be present there!
 
 Current Stats:
 
